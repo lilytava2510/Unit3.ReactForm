@@ -15,7 +15,7 @@ const [token, setToken] = useState(null)
      
     </>
   );
-};
+}
 
 export default App
 
